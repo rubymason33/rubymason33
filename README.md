@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on AI and Machine Learning projects
+- 🌱 I’m currently learning more about AI, NLP, and ML
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have a dog!
